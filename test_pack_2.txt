@@ -1,0 +1,73 @@
+
+::::::::::: small-envelope(11.500x6.125x0.250, max_weight:75.000) vol(17.609) item_number(0) filling_ratio(0.000)
+FITTED ITEMS:
+
+UNFITTED ITEMS:
+====>  100(14.000x3.000x8.000, weight: 585.015) pos([0, 0, 0]) rt(5) vol(336.000)
+====>  10(2.750x9.600x12.000, weight: 997.700) pos([0, 0, 0]) rt(5) vol(316.800)
+
+::::::::::: large-envelope(15.000x12.000x0.750, max_weight:100.000) vol(135.000) item_number(0) filling_ratio(0.000)
+FITTED ITEMS:
+
+UNFITTED ITEMS:
+====>  100(14.000x3.000x8.000, weight: 585.015) pos([0, 0, 0]) rt(5) vol(336.000)
+====>  10(2.750x9.600x12.000, weight: 997.700) pos([0, 0, 0]) rt(5) vol(316.800)
+
+::::::::::: small-box(8.625x5.375x5.375, max_weight:4535.000) vol(249.182) item_number(0) filling_ratio(0.000)
+FITTED ITEMS:
+
+UNFITTED ITEMS:
+====>  100(14.000x3.000x8.000, weight: 585.015) pos([0, 0, 0]) rt(5) vol(336.000)
+====>  10(2.750x9.600x12.000, weight: 997.700) pos([0, 0, 0]) rt(5) vol(316.800)
+
+::::::::::: medium-box(11.000x8.500x5.500, max_weight:6803.000) vol(514.250) item_number(0) filling_ratio(0.000)
+FITTED ITEMS:
+
+UNFITTED ITEMS:
+====>  100(14.000x3.000x8.000, weight: 585.015) pos([0, 0, 0]) rt(5) vol(336.000)
+====>  10(2.750x9.600x12.000, weight: 997.700) pos([0, 0, 0]) rt(5) vol(316.800)
+
+::::::::::: medium-2-box(13.625x11.875x3.375, max_weight:8809.000) vol(546.064) item_number(1) filling_ratio(0.580)
+FITTED ITEMS:
+====>  10(2.750x9.600x12.000, weight: 997.700) pos([0, 0, 0]) rt(2) vol(316.800)
+
+UNFITTED ITEMS:
+====>  100(14.000x3.000x8.000, weight: 585.015) pos([0, 0, 0]) rt(5) vol(336.000)
+
+::::::::::: large-2-box(25.000x15.000x3.000, max_weight:20000.000) vol(1125.000) item_number(2) filling_ratio(0.580)
+FITTED ITEMS:
+====>  100(14.000x3.000x8.000, weight: 585.015) pos([0, 0, 0]) rt(1) vol(336.000)
+====>  10(2.750x9.600x12.000, weight: 997.700) pos([Decimal('8.000'), 0, 0]) rt(3) vol(316.800)
+
+UNFITTED ITEMS:
+
+::::::::::: large-box(15.000x15.000x5.500, max_weight:10000.000) vol(1237.500) item_number(1) filling_ratio(0.272)
+FITTED ITEMS:
+====>  100(14.000x3.000x8.000, weight: 585.015) pos([0, 0, 0]) rt(1) vol(336.000)
+
+UNFITTED ITEMS:
+====>  10(2.750x9.600x12.000, weight: 997.700) pos([0, 0, Decimal('3.000')]) rt(5) vol(316.800)
+
+::::::::::: large-3-box(35.500x16.000x3.000, max_weight:40000.000) vol(1704.000) item_number(2) filling_ratio(0.383)
+FITTED ITEMS:
+====>  100(14.000x3.000x8.000, weight: 585.015) pos([0, 0, 0]) rt(1) vol(336.000)
+====>  10(2.750x9.600x12.000, weight: 997.700) pos([Decimal('8.000'), 0, 0]) rt(3) vol(316.800)
+
+UNFITTED ITEMS:
+
+::::::::::: pallet(40.000x48.000x48.000, max_weight:2086525.000) vol(92160.000) item_number(2) filling_ratio(0.007)
+FITTED ITEMS:
+====>  100(14.000x3.000x8.000, weight: 585.015) pos([0, 0, 0]) rt(0) vol(336.000)
+====>  10(2.750x9.600x12.000, weight: 997.700) pos([0, Decimal('3.000'), 0]) rt(2) vol(316.800)
+
+UNFITTED ITEMS:
+
+Selected bin with highest filling ratio:  medium-2-box(13.625x11.875x3.375, max_weight:8809.000) vol(546.064) item_number(1) filling_ratio(0.580)
+
+Selected bin with highest filling ratio:  large-2-box(25.000x15.000x3.000, max_weight:20000.000) vol(1125.000) item_number(2) filling_ratio(0.580)
+r Fish Tank 31122 Exclusive 3-in-1 ...  585.015   
+
+    length  height  width   id  
+9     2.75    12.0    9.6   10  
+67   14.00     8.0    3.0  100  
+[['10', 2.75, 9.6, 12.0, 997.7], ['100', 14.0, 3.0, 8.0, 585.015]]
